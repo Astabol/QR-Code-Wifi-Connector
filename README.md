@@ -3,7 +3,7 @@
 A simple **PC software** to connect to WiFi networks using QR codes on **Windows (7, 8, 10, 11)**.  
 It allows users to scan a QR code and automatically connect to the network without typing passwords manually.
 
-Live demo: [Astabol/QR-Code-Wifi-Connector](https://github.com/Astabol/QR-Code-Wifi-Connector/)
+Download Link: [QR-Code-Wifi-Connector](https://astabol.github.io/QR-Code-Wifi-Connector/))
 
 ---
 
